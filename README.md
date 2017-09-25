@@ -8,7 +8,7 @@ demo功能：基于错词库的错词识别
 
 结构： main.py
 
-       BigTextFileReader.py 
+      BigTextFileReader.py 
        
 输入： FileInput.txt     
 
